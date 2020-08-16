@@ -1,7 +1,7 @@
 import telebot
 import qrcode
 from PIL import Image
-
+TOKEN = "1264467384:AAFEdn0dI2f80rh8YYbx_CUbuZ-LGIZa_eg"
 bot = telebot.TeleBot(TOKEN)
 
 
